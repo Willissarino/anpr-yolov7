@@ -22,7 +22,7 @@ To deploy this project run
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| ``file`` |``file: jpg/png`` | **Required**. Your image input|
+| ``file`` |``file: jpg/png`` | Your image input|
 
 #### Get image with bounding box & plate number
 
@@ -32,7 +32,7 @@ To deploy this project run
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
-| `file`      | `string` | **Required**. Your image input |
+| `file`      | `string` | Your image input |
 
 ## Results
 
