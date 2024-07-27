@@ -16,9 +16,9 @@ To deploy this project run
 
 #### Get plate number, bounding box coordinates, confidence
 
-````http
+```bash
   POST /object-to-json
-````
+```
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -26,9 +26,9 @@ To deploy this project run
 
 #### Get image with bounding box & plate number
 
-````http
+```bash
   POST /object-to-img
-````
+```
 
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
